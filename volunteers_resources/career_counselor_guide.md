@@ -1,5 +1,6 @@
+## Career Counselor guide
 
-**Career Counselor guide**
+
 
 **Introduction**
 
@@ -47,7 +48,7 @@ Should you have any questions, please contact Piero: [piero.pretto@onja.org](mai
 
 
 
-* Meeting with their mentees **once a week **OR **once per two weeks** on Zoom or Google Meet, depending on your availability.
+* Meeting with their mentees **once a week ** OR **once per two weeks** on Zoom or Google Meet, depending on your availability.
 
 **Other information**
 
@@ -114,7 +115,7 @@ During mock interviews, you are encouraged to provide your own interview questio
 
 
 
-* [51 frontend developer questions on Google Doc.](https://docs.google.com/document/d/1MCl7RGd9-hpVHZtFbrzsqGSRKaWG4OS-mfFBO_cY7S8/edit?usp=sharing)
+* [Interview questions by category](https://docs.google.com/document/d/1MCl7RGd9-hpVHZtFbrzsqGSRKaWG4OS-mfFBO_cY7S8/edit?usp=sharing)
 * [Open-source GitHub repository of front-end programming questions](https://github.com/30-seconds/30-seconds-of-interviews).
 * [50 React Interview Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 * [Codewars: JavaScript Beginners Bootcamp challenges](https://www.codewars.com/collections/javascript-beginners-bootcamp)
