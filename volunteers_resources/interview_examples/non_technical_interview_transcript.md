@@ -1,6 +1,6 @@
 
 
-Interview with [Rinon Tendrinomena](https://onja.org/student/rinon/) \
+Interview with [Rinon Tendrinomena](https://onja.org/student/rinon/)
 May 31, 2021
 
 **Personal questions and responses**
