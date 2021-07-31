@@ -1,6 +1,6 @@
-## Interview Questions by category
-<br/>
 
+# Sample Interview Questions By Category
+<br/>
 
 **Personal questions**
 
@@ -94,7 +94,8 @@
 * What is the difference between a class and id in CSS?
 * What does z-index mean in CSS?
 * What is the float property used for in CSS?
-* What’s the difference between a relative, fixed, absolute and statically positioned element?
+* What’s the difference between a relative and absolute and positioned element?
+* What’s the difference between a fixed and statically positioned element?
 * How do you flip an image upside down using CSS?
 * What is the difference between flexbox & CSS Grid?
 * What is the difference between an svg and canvas element?
@@ -116,9 +117,8 @@
 * Explain "hoisting".
 * What is an anonymous function?
 * What is strict mode?
-* What is a promise?
+* What is a JavaScript promise?
 * What is the difference between the array methods map() and forEach()?
-* Can you explain the reduce method in JavaScript?
 * How can you convert an array into a string?
 * How can you convert a string into an array?
 * How would you convert an array into an object?
@@ -130,6 +130,11 @@
 * How can you avoid callback hell?
 * What is a PUT request and how do you write one?
 * What are truthy and falsy values in JavaScript?
+* How do you remove a property from an Object?
+* How would you describe the reduce method?
+* What is a pure function?
+* What are the core differences between arrow and regular functions?
+* How would you approach removing duplicates from an array?
 
 **React questions**
 
@@ -142,12 +147,11 @@
 * What is a Compound Component?
 * How do you pass data between React components?
 * What is React Context?
-* What is the difference between CSS and SCSS?
 * How do you set default values for props in React?
 * What are React hooks?
 * What is the useState React hook?
 * What is the useEffect hook used for in React and why?
-* What is the virtual DOM?
+* What is the Virtual DOM?
 * What is the useReducer hook?
 * How do you conditionally render components in React?
 * What are synthetic events in React?
