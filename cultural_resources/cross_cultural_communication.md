@@ -16,11 +16,11 @@ Here are some key principles to brief you and prepare you for this kind of commu
 
 In written and verbal communication be:
 
-● **Very direct and concise** (this can feel rude in Malagasyculture so might take some
+* Very direct and concise (this can feel rude in Malagasyculture so might take some
 getting used to)
-● Accurate
-● Honest
-● Specific and complete
+* Accurate
+* Honest
+* Specific and complete
 
 **Examples**
 
