@@ -1,0 +1,14 @@
+{
+    "name": "onja-career-counseling",
+    "version": "1.0.0",
+    "description": "An evolving repository of practice interview questions and Onja resources.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jasmine"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "jasmine": "^2.4.1"
+    }
+  }
