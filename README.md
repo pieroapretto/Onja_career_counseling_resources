@@ -6,7 +6,7 @@ A repo containing resources for [Onja](https://onja.org) Career Counselor volunt
 
 ### [Volunteer Guide](volunteer_guide.md)
 
-An overview of what's expected from a Onja career counselor.
+An overview of what's expected from a Onja Career Counselor.
 
 ### [Coding challenges](coding_challenges)
 

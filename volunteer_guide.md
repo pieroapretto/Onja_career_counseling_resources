@@ -11,7 +11,7 @@
 
 Onja and all its students deeply acknowledge your kindness to help and your commitment to provide career counseling. Your invaluable work is crucial for us and will have a real impact on our students’ future as well as for those who will follow them. Thank you so much for making this happen. 
 
-This document was created as a simple guide for career counselors to have an idea of what is expected from you. Note that this is just a guide and is not exhaustive.
+This document was created as a simple guide for Career Counselors to have an idea of what is expected from you. Note that this is just a guide and is not exhaustive.
 
 Should you have any questions, please contact Piero: [piero.pretto@onja.org](mailto:piero.pretto@onja.org)
 
@@ -72,7 +72,7 @@ Should you have any questions, please contact Piero: [piero.pretto@onja.org](mai
 
 
 * Emails, Slack, Facebook and Google drive.
-* Google Meet or Zoom (to be organised between students and career counselors).
+* Google Meet or Zoom (to be organised between students and Career Counselors).
 
 **Communication advice**
 
