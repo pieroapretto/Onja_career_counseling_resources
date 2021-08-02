@@ -14,11 +14,11 @@ A collection of sample JavaScript coding challenges that can be administered to 
 
 If you want to run the tests, you can simply run the command `npm test` or `yarn test` from the root directory.
 
-### [General Questions](general_questions\general_questions_by_category.md)
+### [General Questions](general_questions/general_questions_by_category.md)
 
 A collection of general, personal and career-related interview questions.
 
-### [Technical Questions](technical_questions\technical_questions_by_category.md)
+### [Technical Questions](technical_questions/technical_questions_by_category.md)
 
 A collection of technical interview questions.
 
@@ -28,11 +28,11 @@ A collection of technical interview questions.
 * React questions
 * React Native questions
 
-### [Interview Examples](interview_examples\non_technical_interview_transcript.md)
+### [Interview Examples](interview_examples/non_technical_interview_transcript.md)
 
 Examples of previously-conducted interviews with Onja students.
 
-### [Cultural resources](cultural_resources\cross_cultural_communication.md)
+### [Cultural resources](cultural_resources/cross_cultural_communication.md)
 
 Documentation explaining Malagasy culture and how we approached teaching Western communication.
 
