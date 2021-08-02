@@ -8,17 +8,17 @@ A repo containing resources for [Onja](https://onja.org) Career Counselor volunt
 
 An overview of what's expected from a Onja Career Counselor.
 
-### [Coding challenges](tree/main/coding_challenges)
+### [Coding challenges](https://github.com/pieroapretto/Onja_career_counseling_resources/tree/main/coding_challenges)
 
 A collection of sample JavaScript coding challenges that can be administered to students during a mock interview. Each challenge includes problem instructions, sample solutions and jasmine test to gauge completion.
 
 If you want to run the tests, you can simply run the command `npm test` or `yarn test` from the root directory.
 
-### [General Questions](tree/main/general_questions/general_questions_by_category.md)
+### [General Questions](https://github.com/pieroapretto/Onja_career_counseling_resources/blob/main/general_questions/general_questions_by_category.md)
 
 A collection of general, personal and career-related interview questions.
 
-### [Technical Questions](tree/main/technical_questions/technical_questions_by_category.md)
+### [Technical Questions](https://github.com/pieroapretto/Onja_career_counseling_resources/blob/main/technical_questions/technical_questions_by_category.md)
 
 A collection of technical interview questions.
 
@@ -28,15 +28,15 @@ A collection of technical interview questions.
 * React questions
 * React Native questions
 
-### [Interview Examples](tree/main/interview_examples/non_technical_interview_transcript.md)
+### [Interview Examples](https://github.com/pieroapretto/Onja_career_counseling_resources/tree/main/interview_examples)
 
 Examples of previously-conducted interviews with Onja students.
 
-### [Cultural resources](tree/main/cultural_resources/cross_cultural_communication.md)
+### [Cultural resources](https://github.com/pieroapretto/Onja_career_counseling_resources/tree/main/cultural_resources)
 
 Documentation explaining Malagasy culture and how we approached teaching Western communication.
 
-### [Application resources](tree/main/application_resources)
+### [Application resources](https://github.com/pieroapretto/Onja_career_counseling_resources/tree/main/application_resources)
 
 Samples of student's CV & personal story as well as a roadmap of our course cirriculum.
 
