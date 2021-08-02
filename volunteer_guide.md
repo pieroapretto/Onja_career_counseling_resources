@@ -48,7 +48,7 @@ Should you have any questions, please contact Piero: [piero.pretto@onja.org](mai
 
 
 
-* Meeting with their mentees **once a week ** OR **once per two weeks** on Zoom or Google Meet, depending on your availability.
+* Meeting with their mentees **once a week** OR **once per two weeks** on Zoom or Google Meet, depending on your availability.
 
 **Other information**
 
