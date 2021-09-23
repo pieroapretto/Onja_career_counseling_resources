@@ -2,12 +2,12 @@
 
 **Summary**
 
-Onja is a fusion of two cultures - Malagasy Cultureand Western Culture. We try to take the
-best of each. In practice we tend to lean towardswestern culture when it comes to
+Onja is a fusion of two cultures - Malagasy Culture and Western Culture. We try to take the
+best of each. In practice we tend to lean towards western culture when it comes to
 professionalism (including communication) and theMalagasy culture for general life.
 
 Because of this, Onja staff need a strong understandingof western communication style.
-Students/developers in particular need a very strongunderstanding of western
+Students/developers in particular need a very strong understanding of western
 communication since they work in European tech teams.
 
 **Communication principles**
