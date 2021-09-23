@@ -2,6 +2,8 @@
 
 A repo containing resources for [Onja](https://onja.org) Career Counselor volunteers.
 
+<b>This repository is a work in progress. Feel free to contribute!</b>
+
 ## Table Of Contents
 
 ### [Volunteer Guide](volunteer_guide.md)
@@ -36,10 +38,8 @@ Examples of previously-conducted interviews with Onja students.
 
 Documentation explaining Malagasy culture and how we approached teaching Western communication.
 
-### [Application resources](https://github.com/pieroapretto/Onja_career_counseling_resources/tree/main/application_resources)
+### [Career Growth](https://github.com/pieroapretto/Onja_career_counseling_resources/tree/main/career_growth)
 
-Samples of student's CV & personal story as well as a roadmap of our course cirriculum.
-
-<b>This repository is a work in progress. Feel free to contribute!</b>
+List of professional work oppurtunities for students to grow their careers, a sample of a student's CV and current course cirriculum.
 
 Concerns and inquries can be sent to Onja staffer Piero at [piero.pretto@onja.org](mailto:piero.pretto@onja.org)
