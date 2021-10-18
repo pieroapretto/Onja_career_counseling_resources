@@ -39,6 +39,17 @@
 
 
 
+* Can you tell me about your development experience at your job?
+* What project management tool do you use at your job?
+* How do you test code at your job?
+* How is code reviewed at your job? Who reviews your code?
+* How do you debug code at work?
+* What is the most difficult task you've been given at your job? How did you overcome it?
+* How do you learn new skills? Does your job provide training?
+* What tech stack do you use at your job?
+* How do you handle styling at your job? What technologies do you use?
+* How do you manage API requests at your job? What technologies do you use?
+* How does your team communicate throughout the day at your job?
 * How many years of work experience do you have?
 * Tell me about your experience using JavaScript.
 * Tell me about your experience with React.
