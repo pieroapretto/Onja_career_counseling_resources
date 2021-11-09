@@ -25,7 +25,7 @@
 * What are some important things you look for in a developer role?
 
 ## Technical communication questions
-*1-2 from this category is ideal*
+*2-4 from this category is ideal*
 
 * What is CSS BEM? Why is it useful?
 
@@ -70,7 +70,7 @@
 * What is the difference between the Context API and prop drilling?
 
 ### Technical understanding questions
-*1-2 from this category is ideal*
+*2-4 from this category is ideal*
 
 * Explain how the `this` keyword works in JavaScript.
 
