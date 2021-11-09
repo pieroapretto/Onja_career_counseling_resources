@@ -1,6 +1,6 @@
 # Technical Interview Template
 
-*This template can be used to help our developer improve across key areas. Asking a few questions from each category is ideal.*
+*This template can be used to help our developers improve their professional and technical communication. Asking a few questions from each category is ideal.*
 
 ## Personal questions 
 
