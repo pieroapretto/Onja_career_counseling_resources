@@ -1,8 +1,10 @@
-## Technical Interview Template
+# Technical Interview Template
 
-** Template to help our developer improve across key areas **
+*This template can be used to help our developer improve across key areas. Asking a few questions from each category is ideal.*
 
-### Introduction questions (1-2 is ideal)
+## Personal questions 
+
+*1-2 from this category is ideal*
 
 * Can you show me a link to your CV and portfolio?
 
@@ -22,7 +24,8 @@
 
 * What are some important things you look for in a developer role?
 
-### Technical communication questions (2-5 is ideal)
+## Technical communication questions
+*1-2 from this category is ideal*
 
 * What is CSS BEM? Why is it useful?
 
@@ -66,7 +69,8 @@
 
 * What is the difference between the Context API and prop drilling?
 
-### Technical understanding questions (2-5 is ideal)
+### Technical understanding questions
+*1-2 from this category is ideal*
 
 * Explain how the `this` keyword works in JavaScript.
 
@@ -81,8 +85,6 @@
 * What is the difference between the Context API and prop drilling?
 
 * How would you make a for loop run backwards, starting with the last index in an array?
-
-* Explain how the `this` keyword works in JavaScript.
 
 * Explain how prototypal inheritance works.
 
@@ -116,4 +118,11 @@
 
 * What are the differences between HTTP/2 & HTTP/1.1?
 
-### Live coding challenges (1-3 is ideal)
+### Live coding challenges
+*1-2 challenges is ideal*
+
+* [Easy JavaScript challenges](https://www.codewars.com/collections/js-8-kyu)
+
+* [Intermediate JavaScript challenges](https://www.codewars.com/collections/7-slash-20-challenges-kyu-7-js)
+
+* [Easy TypeScript challenges](https://www.codewars.com/kata/search/typescript?q=&r[]=-8&beta=false)
