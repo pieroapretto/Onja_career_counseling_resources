@@ -69,7 +69,7 @@
 
 * What is the difference between the Context API and prop drilling?
 
-### Technical understanding questions
+## Technical understanding questions
 *2-4 from this category is ideal*
 
 * Explain how the `this` keyword works in JavaScript.
