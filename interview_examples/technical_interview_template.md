@@ -134,8 +134,6 @@
 ### Live coding challenges
 *1-2 challenges is ideal*
 
-* [Easy JavaScript challenges](https://www.codewars.com/collections/js-8-kyu)
-
 * [Intermediate JavaScript challenges](https://www.codewars.com/collections/7-slash-20-challenges-kyu-7-js)
 
 * [Easy TypeScript challenges](https://www.codewars.com/kata/search/typescript?q=&r[]=-8&beta=false)
