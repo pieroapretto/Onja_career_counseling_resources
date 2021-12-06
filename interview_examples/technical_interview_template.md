@@ -69,6 +69,8 @@
 
 * What is the difference between the Context API and prop drilling?
 
+* What is a user story?
+
 ## Technical understanding questions
 *2-4 from this category is ideal*
 
@@ -117,6 +119,17 @@
 * What is the difference between localStorage and sessionStorage objects?
 
 * What are the differences between HTTP/2 & HTTP/1.1?
+
+* What are the differences between functional and object-oriented programming?
+
+* What are the differences between a compiled and interpreted language?
+
+* What is type coercion? Can you provide some examples of it in JavaScript?
+
+* What is a progressive web application?
+
+* What are the differences between integrated and end-to-end testing?
+
 
 ### Live coding challenges
 *1-2 challenges is ideal*
