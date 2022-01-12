@@ -1,10 +1,10 @@
-// Common JS operations
+// How to create, read, update and delete elements in an array
 
-// here are some example variables
+// example variables
 let arr = [1,2,3,'a','b','c', true, { name: 'Manjaka'}]
 let count = 0;
 
-// // remove elements from an array
+// remove elements from an array
 
     // - remove by index
     arr.splice()
@@ -17,7 +17,7 @@ let count = 0;
     // - remove several elements from array based on condition
     arr.filter()
 
-// // adding elements to an array
+// adding elements to an array
 
     // - replace at index value
     arr.splice()
@@ -49,15 +49,22 @@ let count = 0;
 
 // We can us LOOPS to check every value inside an array
 
-// use one of the 2 methods for checking a single value
+// use one of the 3 methods to check for multiple values in an array
 
-    //arr.forEach()
+    // forEach()
 
         // allows us to loop through a static array
 
     // for loop
 
         // allows us to loop based on a conditional statement that can be dynamic
+
+    // while loop
+
+        // allows us to loop based on a multiple conditional statements
+        // allows us to loop an unknown number of times
+
+// Writing conditional statements
 
 // check if two things are true
 
