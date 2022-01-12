@@ -53,21 +53,23 @@ let count = 0;
 
     //arr.forEach()
 
+        // allows us to loop through a static array
+
     // for loop
+
+        // allows us to loop based on a conditional statement that can be dynamic
 
 // check if two things are true
 
-    // use AND symbol &&
+    // use the AND operator &&
 
 // check if one of two things are true
 
-    // use OR symbol ||
+    // use the OR operator ||
 
 // changing values inside an array
 
-    // use a state value
-    // OR 
-    // use a variable, increment variable based on condition
+    // use a state value OR use a variable, increment variable based on condition
 
     // increamenting logic
     // count = count + 1;
