@@ -1,4 +1,4 @@
-# Dynamic Array Creation
+# Dynamic Array Manipulation
 
 In JavaScript, you can create, read, update and remove items from an array in mutliple ways. Here are "tried-and-true" approaches for each operation.
 
@@ -133,3 +133,50 @@ let arr = []
     // arr now equals ['cat']
     ```
 
+## Multiple-step array manipulation
+
+Sometimes you want to make several changes to an array under particular conditions. You can do so by creating a dynamic variable inside a `for` loop. This dynamic variable allows you to access multiple items inside an array independently.
+
+How a `for` loop works:
+
+```js
+for (
+    let i=0; // dynamic variable
+    i < 3; // conditional statement on dynamic value
+    i++; // iteration statement on dynamic value
+)
+```
+
+How to use a dynamic variable to access mutliple values:
+
+```js
+let arr = ['cat', 'chicken', 'dog']
+
+for (let i=0; i < 3; i++) {
+
+    // using the dynamic value to read items by index value
+    let animal = arr[i];
+
+
+    // using includes() to check each item in the array for a substring
+    animal.includes('a')
+}
+```
+
+How to manipulate items conditionally
+
+```js
+let arr = ['cat', 'chicken', 'dog']
+
+for (let i=0; i < 3; i++) {
+
+    // using the dynamic value to read items by index value
+    let animal = arr[i];
+
+
+    // using a conditional statement to only update a few items in an array
+    if(animal.includes('a')) {
+        arr[i] = animal + '!'
+    }
+}
+```
