@@ -59,7 +59,7 @@ for (
 
 ## 3) Setting an iteration statement
 
-Iteration statements traditionally increment the dynamic variable by one. However, you can decrement the value or update it based on your needs
+Iteration statements traditionally increment the dynamic variable by one. However, you can decrement the value or update it based on your needs.
 
 ```js
 
@@ -85,7 +85,7 @@ for (
 
 ## When to use a `while` loop
 
-While loops are useful when you want to loop under mutliple conditions or when you want to manage multiple dynamic variables
+`while` loops are useful when you want to loop under mutliple conditions or when you want to maintain multiple dynamic variables.
 
 ```js
 let i = 0;
@@ -126,7 +126,7 @@ while ( i < arr.length ) {
 ```
 
 ```js
-let arr = ['cat', 'chicken', 'dog', 'duck'];
+let arr = ['cat', 'chicken', 'dog', 'duck', 'cow', 'horse'];
 let i = 1;
 let j = 2;
 let newArray = [];
