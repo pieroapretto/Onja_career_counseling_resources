@@ -1,8 +1,6 @@
 # Dynamic Array Manipulation
 
-In JavaScript, you can create, read, update and remove items from an array in mutliple ways. Here are "tried-and-true" approaches for each operation.
-
-Here is a table summarizing each approach:
+In JavaScript, you can create, read, update and remove items from an array in mutliple ways. Here are "tried-and-true" approaches for each operation:
 
 ![array-manipulation](./media/array-manipulation.png)
 
@@ -96,9 +94,9 @@ let arr = []
     ```js
     let arr = ['cat', 'chicken', 'dog']
 
-    arr.map(animal => animal + '!')
+    let newArray = arr.map(animal => animal += '!')
 
-    // arr now equals ['cat!', 'chicken!', 'dog!']
+    // newArray equals ['cat!', 'chicken!', 'dog!']
     ```
 
 * Add items to end of an array
@@ -118,9 +116,9 @@ let arr = []
     ```js
     let arr = ['cat', 'chicken', 'dog']
 
-    arr.filter(animal => animal === 'dog')
+    let newArray = arr.filter(animal => animal === 'dog')
 
-    // arr now equals ['dog']
+    // newArray equals ['dog']
     ```
 
 * Remove items from an array by index value
@@ -135,7 +133,7 @@ let arr = []
 
 ## Multiple-step array manipulation
 
-Sometimes you want to make several changes to an array under particular conditions. You can do so by creating a dynamic variable inside a `for` loop. This dynamic variable allows you to access multiple items inside an array independently.
+Sometimes you want to make several changes to an array under particular conditions. You can do so by creating a dynamic variable with a `for` loop. This dynamic variable allows you to access multiple items inside an array independently.
 
 How a `for` loop works:
 
