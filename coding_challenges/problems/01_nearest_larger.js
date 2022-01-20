@@ -8,9 +8,9 @@
  // In case of ties (see example below), choose the earliest (left-most)
  // of the two indices. If no number in `arr` is larger than `arr[i]`,
  // return `null`.
- 
- const nearestLarger = () => {
 
- }
+const nearestLarger = (arr=[3, 9, 7, 0, 8], index=2) => {
+
+}
 
 module.exports = nearestLarger;
