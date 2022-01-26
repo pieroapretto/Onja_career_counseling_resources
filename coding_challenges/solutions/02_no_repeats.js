@@ -9,7 +9,7 @@ function noRepeats(yearStart, yearEnd) {
   var yearsList = [];
 
   for (let year = yearStart; year <= yearEnd; year++) {
-    if (noRepeat(year)) {
+    if (hasNoRepeatingDigits(year)) {
       yearsList.push(year);
     }
   }
@@ -17,8 +17,8 @@ function noRepeats(yearStart, yearEnd) {
   return yearsList;
 }
 
-function noRepeat(year) {
-  var intArr = year.toString().split('');
-  var uniqueNumbers =  [...new Set(intArr)];
-  return intArr.length === uniqueNumbers.length
+function hasNoRepeatingDigits(digits) {
+  var digitArray = digits.toString().split('');
+  var uniqueDigits =  [...new Set(digitArray)];
+  return digitArray.length === uniqueDigits.length
 }
