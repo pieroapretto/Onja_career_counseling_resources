@@ -5,7 +5,7 @@ In JavaScript, you can create, read, update and remove properties from an object
 ![object-manipulation](./media/object-manipulation.png)
 
 ## 1) Create an object
-<br>
+
 You can initialize an object by declaring empty curly braces.
 
 ```js
@@ -13,7 +13,6 @@ let obj = {}
 ```
 
 ## 2) Reading an object
-<br>
 
 * Read a single object property value using dot notation
 
@@ -102,7 +101,6 @@ let obj = {}
     ```
 
 ## 3) Update an object
-<br>
 
 * Add a single property name to an object using bracket notation
 
