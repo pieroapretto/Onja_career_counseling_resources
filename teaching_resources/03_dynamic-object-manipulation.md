@@ -1,7 +1,8 @@
-# Dynamic Array Manipulation
+# Dynamic Object Manipulation
 
-In JavaScript, you can create, read, update and remove properties from an object in mutliple ways. Here are "tried-and-true" approaches for each operation:
+In JavaScript, you can create, read, update and remove properties from an object in multiple ways. Here are some "tried-and-true" approaches for each operation:
 
+![object-manipulation](./media/object-manipulation.png)
 
 ## 1) Create an object
 <br>
@@ -70,6 +71,36 @@ let obj = {}
     // returns ['Rado', 85, true]
     ```
 
+* Read all property names and values in an object using a `for..in` loop
+
+    ```js
+    let student = {
+        name: 'Rado',
+        grade: 85,
+        isMale: true
+    }
+
+    for ( let property in student) {
+        student[property] = null;
+    }
+
+    //  student now equals { name: null, grade: null, isMale: null }
+    ```
+
+* Read all property values in an object by destructing it's properties
+
+    ```js
+    let student = {
+        name: 'Rado',
+        grade: 85,
+        isMale: true
+    }
+
+    const { name, grade, isMale } = student;
+
+    // Newly declared variable "grade" equals 85
+    ```
+
 ## 3) Update an object
 <br>
 
@@ -99,22 +130,6 @@ let obj = {}
     student['grade'] = 50
 
     // student now equals { name: 'Rado', grade: 50, isMale: true}
-    ```
-
-* Update (or read) all property values in an object using a `for..in` loop
-
-    ```js
-    let student = {
-        name: 'Rado',
-        grade: 85,
-        isMale: true
-    }
-
-    for ( let property in student) {
-        student[property] = null;
-    }
-
-    //  student now equals { name: null, grade: null, isMale: null }
     ```
 
 ## 4) Remove properties from an object
