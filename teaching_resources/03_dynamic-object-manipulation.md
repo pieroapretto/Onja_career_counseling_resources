@@ -42,7 +42,7 @@ let obj = {}
     // returns 'Rado'
     ```
 
-* Read all object properties using `Object.keys()`
+* Read all object property names using `Object.keys()`
 
     ```js
     let student = {
