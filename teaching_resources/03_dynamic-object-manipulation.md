@@ -102,7 +102,21 @@ let obj = {}
 
 ## 3) Update an object
 
-* Add a single property name to an object using bracket notation
+* Update a single property value in an object using dot notation
+
+    ```js
+    let student = {
+        name: 'Rado',
+        grade: 85,
+        isMale: true
+    }
+
+    student.grade = null
+
+    // student now equals { name: 'Rado', grade: null, isMale: true }
+    ```
+
+* Add a single property name and value to an object using bracket notation
 
     ```js
     let student = {
