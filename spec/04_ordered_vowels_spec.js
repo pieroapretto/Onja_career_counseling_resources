@@ -43,4 +43,10 @@ describe("orderedVowelWords", function() {
 
     expect(orderedVowelWords(phrase)).toEqual(result);
   });
+  it("processes a string with a few words", function() {
+    phrase = "this is another test"
+    result = "this is test"
+
+    expect(orderedVowelWords(phrase)).toEqual(result);
+  });
 })

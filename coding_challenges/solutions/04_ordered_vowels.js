@@ -17,20 +17,21 @@ function orderedVowelWords(str) {
 }
 
 function orderedVowels(str) {
-  var previousVowel;
+  var previousVowelIndex;
   var letters = str.split('');
 
   // We are using a 'for' loop here so we can break the
   // moment we find a vowel out of 'order'
   for (var i = 0; i < letters.length; i++) {
-    if (isVowel(letters[i])) {
+    let vowelIndex = returnVowelIndex(letters[i]);
+    if (vowelIndex > -1) {
       // If previousVowel, has been set, us it, but if
       // not, set it to the current letter
-      previousVowel = previousVowel || letters[i];
+      previousVowelIndex = previousVowelIndex || vowelIndex;
 
       // If the previousVowel is greater than the current letter,
       // we know our vowels are out of 'order'
-      if (previousVowel > letters[i]) {
+      if (previousVowelIndex > vowelIndex) {
         return false;
       }
     }
@@ -39,6 +40,7 @@ function orderedVowels(str) {
   return true;
 }
 
-function isVowel(str) {
-  return ['a', 'e', 'i', 'o', 'u'].indexOf(str) > -1;
+function returnVowelIndex(char) {
+  // returns the index of a character from an array of alphabetically arranged vowels 
+  return ['a', 'e', 'i', 'o', 'u'].indexOf(char);
 }
