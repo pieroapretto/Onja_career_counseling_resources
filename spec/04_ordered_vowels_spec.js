@@ -49,4 +49,11 @@ describe("orderedVowelWords", function() {
 
     expect(orderedVowelWords(phrase)).toEqual(result);
   });
+
+  it("processes a string with words with misordered vowels in several places", function() {
+    phrase = "this is another test from Piero your favorite teacher in the universe"
+    result = "this is test from your in the"
+
+    expect(orderedVowelWords(phrase)).toEqual(result);
+  });
 })
